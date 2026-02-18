@@ -1,0 +1,13 @@
+# Virtual environment directories
+venv/
+.venv/
+
+# Chroma DB persistence directory
+chroma.db/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
